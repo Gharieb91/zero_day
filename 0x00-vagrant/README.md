@@ -1,1 +1,1 @@
-It prints the core operating system's name
+It prints the core operating system name
