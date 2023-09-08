@@ -1,1 +1,1 @@
-**This file is mandatory in projects**
+This is the readme file for my zero_day repository
